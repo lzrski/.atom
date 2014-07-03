@@ -1,0 +1,31 @@
+{
+  "name": "pomodoro",
+  "main": "./lib/pomodoro",
+  "version": "0.4.2",
+  "description": "Simple pomodoro timer",
+  "activationEvents": [
+    "pomodoro:start",
+    "pomodoro:abort"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshiori/pomodoro"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Pomodoro  - Atom package *Beta*\n\nPomodoro is an Atom package that is simple timer for Pomodoro Technique.\n\n![](https://www.evernote.com/shard/s4/sh/834d812b-b56d-4f51-b872-9f42591f62a1/892711b9985511ebc91056e5ffef0d4e/deep/0/README.md----Users-yoshiori-shoji-.atom-packages-pomodoro-%E3%81%A8-Atom.png)\n\n## Pomodoro Technique?\nThe time management technique. For more information, [click here](http://pomodorotechnique.com/).\n\n## Installation\n\n    $ apm install pomodoro\n\n## Usage\n\nThe following commands are available for you to remap and/or run via the command palette.\n\n* `pomodoro:start` - Start timer\n* `pomodoro:abort` - Abort timer\n\n### Set Execute Command\n\n![](https://www.evernote.com/shard/s4/sh/5bd4dd38-3eb4-41c5-a8db-a6fb97f2dbe3/d41b10d4d482748a14c40e0590f9a321/deep/0/Settings----Users-yoshiori-.atom-packages-pomodoro.png)\n\n#### for example\n\n- Create Shell Script file. Set file permission 755.\n\n```sh\n#!/bin/sh\n/System/Library/CoreServices/Menu\\ Extras/User.menu/Contents/Resources/CGSession -suspend  \n```\n\n- Set Shell Script file path to `Path to Execute With Timer Finish`\n\n- Pomodoro finish -> suspend computer.\n\n## Contributing\n\n1. Fork it\n2. Create your feature branch (`git checkout -b my-new-feature`)\n3. Commit your changes (`git commit -am 'Add some feature'`)\n4. Push to the branch (`git push origin my-new-feature`)\n5. Create new Pull Request\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/yoshiori/pomodoro/issues"
+  },
+  "homepage": "https://github.com/yoshiori/pomodoro",
+  "_id": "pomodoro@0.4.2",
+  "dist": {
+    "shasum": "6fb62473617989487a449c48d95c03882f9875dc"
+  },
+  "_resolved": "/tmp/d-114512-3720-lko0cw/package.tgz",
+  "_from": "/tmp/d-114512-3720-lko0cw/package.tgz"
+}

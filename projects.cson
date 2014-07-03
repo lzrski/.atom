@@ -1,0 +1,15 @@
+'Microserver':
+  'title': 'Microserver'
+  'paths': [
+    '/home/tadeusz/Projects/microserver'
+  ]
+'Dredd':
+  'title': 'Dredd'
+  'paths': [
+    '/home/tadeusz/Projects/dredd'
+  ]
+'config-object':
+  'title': 'config-object'
+  'paths': [
+    '/home/tadeusz/Projects/config-object'
+  ]

@@ -13,3 +13,8 @@
   'paths': [
     '/home/tadeusz/Projects/config-object'
   ]
+'.atom':
+  'title': '.atom'
+  'paths': [
+    '/home/tadeusz/.atom'
+  ]

@@ -20,3 +20,6 @@
   'ctrl-pagedown': 'pane:show-next-item'
   'ctrl-pageup'  : 'pane:show-previous-item'
   'ctrl-alt-p'   : 'project-manager:toggle'
+
+'editor':
+  'ctrl-shift-o' : 'application:open-folder'

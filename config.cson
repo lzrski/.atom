@@ -1,0 +1,14 @@
+'exception-reporting':
+  'userId': '641b5a75-9b6c-17ec-2102-63fb249eaa11'
+'welcome':
+  'showOnStartup': false
+'metrics': false
+'editor':
+  'fontSize': 16
+  'showIndentGuide': true
+  'showInvisibles': true
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'atom-dark-syntax'
+  ]

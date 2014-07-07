@@ -24,6 +24,11 @@
   "dist": {
     "shasum": "06f7a2b181753db3bce86ca00c7af7734eaa7d87"
   },
+<<<<<<< HEAD
   "_resolved": "/tmp/d-11462-10412-1uj3cvg/package.tgz",
   "_from": "/tmp/d-11462-10412-1uj3cvg/package.tgz"
+=======
+  "_resolved": "/tmp/d-114523-7321-50tqkf/package.tgz",
+  "_from": "/tmp/d-114523-7321-50tqkf/package.tgz"
+>>>>>>> origin/master
 }

@@ -1,5 +1,20 @@
-'R20':
-  'title': 'R20'
+'Microserver':
+  'title': 'Microserver'
   'paths': [
-    '/home/tadeusz/Projects/R20'
+    '/home/tadeusz/Projects/microserver'
+  ]
+'Dredd':
+  'title': 'Dredd'
+  'paths': [
+    '/home/tadeusz/Projects/dredd'
+  ]
+'config-object':
+  'title': 'config-object'
+  'paths': [
+    '/home/tadeusz/Projects/config-object'
+  ]
+'.atom':
+  'title': '.atom'
+  'paths': [
+    '/home/tadeusz/.atom'
   ]

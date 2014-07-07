@@ -16,3 +16,7 @@
 #   'ctrl-P': 'core:move-up'
 #   'ctrl-p': 'core:move-down'
 #
+'body':
+  'ctrl-pagedown': 'pane:show-next-item'
+  'ctrl-pageup'  : 'pane:show-previous-item'
+  'ctrl-alt-p'   : 'project-manager:toggle'

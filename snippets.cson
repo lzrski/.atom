@@ -16,5 +16,5 @@
 
 '.source.coffee':
   Require:
-    prefix: 'req'
+    prefix: 'rq'
     body  : "$1 $3= require '$1$2'$4"

@@ -1,5 +1,5 @@
 'editor':
-  'fontSize': 16
+  'fontSize': 14
   'showInvisibles': true
   'showIndentGuide': true
 'core': {}

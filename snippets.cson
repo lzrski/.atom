@@ -13,3 +13,8 @@
 #     'prefix': 'log'
 #     'body': 'console.log $1'
 #
+
+'.source.coffee':
+  'Callback error handling':
+    'prefix': 'iferr'
+    'body'  : 'if error then return done error'

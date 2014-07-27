@@ -12,3 +12,5 @@
 'merge-conflicts':
   'gitPath': 'git'
 'todo-show': {}
+'markdown-preview':
+  'breakOnSingleNewline': true

@@ -21,5 +21,6 @@
   'ctrl-pageup'  : 'pane:show-previous-item'
   'ctrl-alt-p'   : 'project-manager:toggle'
   'shift-delete' : 'editor:delete-line'
+  'ctrl-f3'      : 'find-and-replace:replace-next'
 'editor':
   'ctrl-shift-o' : 'application:open-folder'

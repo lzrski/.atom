@@ -1,7 +1,7 @@
 {
   "name": "pomodoro",
   "main": "./lib/pomodoro",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Simple pomodoro timer",
   "activationEvents": [
     "pomodoro:start",
@@ -22,10 +22,10 @@
     "url": "https://github.com/yoshiori/pomodoro/issues"
   },
   "homepage": "https://github.com/yoshiori/pomodoro",
-  "_id": "pomodoro@0.4.2",
+  "_id": "pomodoro@0.4.3",
   "dist": {
-    "shasum": "6fb62473617989487a449c48d95c03882f9875dc"
+    "shasum": "1919c31b3ccaa9f1be90fe3b533e8b8dbf1fb6d7"
   },
-  "_resolved": "/tmp/d-114512-3720-lko0cw/package.tgz",
-  "_from": "/tmp/d-114512-3720-lko0cw/package.tgz"
+  "_resolved": "/tmp/d-114630-16724-1vaz2cw/package.tgz",
+  "_from": "/tmp/d-114630-16724-1vaz2cw/package.tgz"
 }
